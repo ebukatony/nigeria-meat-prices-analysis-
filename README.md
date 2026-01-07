@@ -21,5 +21,5 @@ Analysis of producer prices for 5 key meats in Nigeria over 17 years, identifyin
 - Economic analysis principles
 
 ## 👨‍🔬 Analyst
-Nnamchi Chukwuebuka Anthy| Animal Scientist transitioning to Data Analytics  
+Nnamchi Chukwuebuka Anthony| Animal Scientist transitioning to Data Analytics  
 Combining domain expertise in animal science with data analysis skills
